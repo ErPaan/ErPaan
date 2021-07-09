@@ -1,15 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ErPaan/ErPaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Erfan Bozorgzadeh aka ErPaan on socials, started programming as a hobby and now i'm working seriously to make a career out of it.
+Right now i'm student at Amirkabir University of Technology and a self-learner in Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning how to code 
-- 👯 I’m looking to collaborate on something
-- 🤔 I’m looking for help with somebody
-- 💬 Ask me about everything
-- 📫 How to reach me: via my github
-- ⚡ Fun fact: i'm boring
--->
+Thanks for visiting my P.
