@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on something
 - 🤔 I’m looking for help with somebody
 - 💬 Ask me about everything
-- 📫 How to reach me: <a href="https://stackexchange.com/users/22163593"><img src="https://stackexchange.com/users/flair/22163593.png" width="208" height="58" alt="profile for ErPaan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ErPaan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+- 📫 How to reach me: via my github
 - ⚡ Fun fact: i'm boring
 -->
