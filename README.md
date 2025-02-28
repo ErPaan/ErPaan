@@ -6,4 +6,3 @@ Right now i'm a student at Amirkabir University of Technology and a self-learner
 
 Have me on: <a href="mailto:imerfanb@gmail.com? subject=subject text" >My gmail</a>
 
-Thanks for visiting my P.
